@@ -55,7 +55,7 @@ Understanding online customer behavior is essential for any ecommerce platform. 
    git clone https://github.com/your-username/ecommerce-behavior-dashboard.git
    cd ecommerce-behavior-dashboard
 
-2. # 📁 Dataset Placeholder
+2. **Dataset Placeholder**
     The original dataset is too large to upload to GitHub.
     To run this project:
     1. Download the full dataset from the original source (e.g., Kaggle or provided link).
