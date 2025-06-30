@@ -52,7 +52,7 @@ Understanding online customer behavior is essential for any ecommerce platform. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ecommerce-behavior-dashboard.git
+   git clone https://github.com/shrav1006/ecommerce-behavior-dashboard.git
    cd ecommerce-behavior-dashboard
 
 2. **Dataset Placeholder**
