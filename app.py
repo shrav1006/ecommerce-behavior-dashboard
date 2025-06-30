@@ -99,7 +99,7 @@ st.pyplot(fig)
 st.subheader("🤖 Predictive Modeling: Will a User Purchase?")
 user_group['target'] = (user_group['purchases'] > 0).astype(int)
 
-X = user_group[['views', 'carts', 'price', 'user_session', 'view_to_cart', 'total_events', 'log_price']]
+X = user_group[['views', 'carts', 'price', 'user_session', 'view_to_cart','cart_to_purchase', 'total_events', 'log_price']]
 y = user_group['target']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, test_size=0.2, random_state=42)
